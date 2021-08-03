@@ -77,7 +77,7 @@
         "description": "Should Fan power only affect the fan or complete device.",
         "type": "string",
         "enum": [ "FAN only", "Complete Device" ],
-        "default": "YES"
+        "default": "FAN only"
       },
       "fanName": {
           "title": "FAN name",
